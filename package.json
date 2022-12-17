@@ -1,0 +1,17 @@
+{
+  "name": "github-song-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "contact@joey.dev",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "github-profile-status": "^1.0.0",
+    "node-fetch": "^2.6.0"
+  }
+}
